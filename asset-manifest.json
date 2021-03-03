@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/music-mixer-machine/static/css/main.d724899c.chunk.css",
+    "main.js": "/music-mixer-machine/static/js/main.6310384e.chunk.js",
+    "main.js.map": "/music-mixer-machine/static/js/main.6310384e.chunk.js.map",
+    "runtime-main.js": "/music-mixer-machine/static/js/runtime-main.e9749016.js",
+    "runtime-main.js.map": "/music-mixer-machine/static/js/runtime-main.e9749016.js.map",
+    "static/js/2.708a5c2a.chunk.js": "/music-mixer-machine/static/js/2.708a5c2a.chunk.js",
+    "static/js/2.708a5c2a.chunk.js.map": "/music-mixer-machine/static/js/2.708a5c2a.chunk.js.map",
+    "index.html": "/music-mixer-machine/index.html",
+    "static/css/main.d724899c.chunk.css.map": "/music-mixer-machine/static/css/main.d724899c.chunk.css.map",
+    "static/js/2.708a5c2a.chunk.js.LICENSE.txt": "/music-mixer-machine/static/js/2.708a5c2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9749016.js",
+    "static/js/2.708a5c2a.chunk.js",
+    "static/css/main.d724899c.chunk.css",
+    "static/js/main.6310384e.chunk.js"
+  ]
+}
